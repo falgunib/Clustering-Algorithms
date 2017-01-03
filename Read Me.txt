@@ -1,0 +1,4 @@
+Read Me
+Each folder contains the java file and the whole java project exported from eclipse.
+We have to input path and the output path for each algorithm
+In dbscan, to change values of epsilon & mininum number of points, channge eps and minpts in the code respectively.
